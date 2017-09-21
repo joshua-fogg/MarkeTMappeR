@@ -1,0 +1,20 @@
+{
+  "name": "MarkeTMappeR",
+  "version": "1.0.0",
+  "description": "An attempt to help consumers at farmers markets to find what they are after and get an idea of going rates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshua-fogg/MarkeTMappeR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshua-fogg/MarkeTMappeR/issues"
+  },
+  "homepage": "https://github.com/joshua-fogg/MarkeTMappeR#readme"
+}
